@@ -31,12 +31,12 @@ const experts = [
     },
     {
         img: mechanic5,
-        name: 'Shakil',
+        name: 'Humayun',
         expertize: 'Member'
     },
     {
         img: mechanic1,
-        name: 'Shakil',
+        name: 'Hasibul',
         expertize: 'Member'
     },
 ]
